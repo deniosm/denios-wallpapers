@@ -1,0 +1,22 @@
+denios-wallpapers (1.0.2) denios-updates; urgency=medium
+
+  * Add new default wallpaper.
+  * Add new wallpapers
+    + default19
+    + default20
+    + default21
+    + default22
+    + default23
+    + hackthebox
+    + hackthebox-alt
+  * Remove some old wallpapers
+    + default
+
+ -- Denis Maslo <denios-linux@proton.me>  Fri, 16 Dec 2022 03:50:30 +0100
+ 
+denios-wallpapers (1.0.1) unstable; urgency=medium
+
+  * Initial Release.
+  * Initial Version.
+
+ -- Denis Maslo <denios-linux@proton.me>  Sun, 27 Nov 2022 18:14:59 +0100

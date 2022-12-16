@@ -1,0 +1,17 @@
+Source: denios-wallpapers
+Priority: optional
+Maintainer: Denis Maslo <denios-linux@proton.me>
+Uploaders: Denis Maslo <denios-linux@proton.me>
+Standards-Version: 4.4.0
+Section: info
+Build-Depends: debhelper (>= 11)
+Build-Depends-Indep: pkg-config
+Homepage: https://github.com/deniosm/denios-wallpapers
+
+Package: denios-wallpapers
+Architecture: all
+Depends: desktop-base
+Priority: optional
+Description: Default wallpapers for Denios GNU/Linux
+ This is a collection of desktop wallpapers created for MATE desktop environment for Denios GNU/Linux
+
